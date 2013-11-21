@@ -10,4 +10,7 @@
 
 @interface MYLViewController : UIViewController
 
+
+@property (nonatomic,strong)MYLViewController *root;
+
 @end

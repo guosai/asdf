@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4042D542-2082-445E-941D-E196A0866068</string>
+	<key>IDESourceControlProjectName</key>
+	<string>asdf</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F7D3824F-D496-4F03-BBF9-F9BC646A047F</key>
+		<string>https://github.com/guosai/asdf.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>asdf.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F7D3824F-D496-4F03-BBF9-F9BC646A047F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/guosai/asdf.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F7D3824F-D496-4F03-BBF9-F9BC646A047F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F7D3824F-D496-4F03-BBF9-F9BC646A047F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>asdf</string>
+		</dict>
+	</array>
+</dict>
+</plist>
